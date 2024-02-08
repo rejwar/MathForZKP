@@ -7,3 +7,4 @@ fn main() {
     println!("Is 100 ≡ 1 mod 11? {}", congruent(100, 1, 11)); // true
     println!("Is 7 ≡ 3 mod 5? {}", congruent(7, 3, 5)); // false
 }
+
